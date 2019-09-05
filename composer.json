@@ -12,9 +12,14 @@
         "name": "Jason Lewis",
         "email": "jason.lewis1991@gmail.com"
     }],
+    "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/anardil/blueprint"
+    },
     "require": {
         "php": "^7.1",
-        "dingo/blueprint": "^0.2",
+        "dingo/blueprint": "dev-master",
         "illuminate/routing": "^6.0",
         "illuminate/support": "^6.0",
         "league/fractal": "^0.17"
