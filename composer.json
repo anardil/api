@@ -16,7 +16,8 @@
     {
       "type": "vcs",
       "url": "https://github.com/anardil/blueprint"
-    },
+    }
+    ],
     "require": {
         "php": "^7.1",
         "dingo/blueprint": "dev-master",
