@@ -15,8 +15,8 @@
     "require": {
         "php": "^7.1",
         "dingo/blueprint": "^0.2",
-        "illuminate/routing": "^5.5",
-        "illuminate/support": "^5.5",
+        "illuminate/routing": "^6.0",
+        "illuminate/support": "^6.0",
         "league/fractal": "^0.17"
     },
     "require-dev": {
